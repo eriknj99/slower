@@ -1,6 +1,8 @@
 # slower
 Print STDOUT slower!
 
+[Demo video](https://youtu.be/pjUG3s_1OtA)
+
 # Installation 
 For convenience you can use `install.sh`. This will compile the program and copy the executable to /usr/bin/slower
 
